@@ -9,7 +9,7 @@ gener = []
 rate=[]
 act=[]
 vote =[]
-num = np.arange(1,100,50)
+num = np.arange(1,2371,50)
 
 # Loop for scraping Data
 for i in num :
